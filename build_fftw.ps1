@@ -10,7 +10,7 @@ $StaticBuildRoot = "./obj/local/"
 $SharedBuildRoot = "./libs/"
 $OutputDir = "out"
 
-$FFTW3_Source_ConfigFileName = "fftw3_config.h"
+$FFTW3_Source_ConfigFileName = "fftw_config.h"
 $FFTW3_Destination_ConfigFileName = "config.h"
 $FFTW3_IncludeFile = "$RootSourcePath/api/fftw3.h"
 $FFTW3_IncludeFileDest = "./$OutputDir/include/fftw3.h"
