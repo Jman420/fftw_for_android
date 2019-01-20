@@ -69,4 +69,4 @@ obj/*
 libs/*
 out/*
 jni/*
-jni/.gitignore
+!jni/dummy.txt
